@@ -1,0 +1,25 @@
+.seccion_reseñas{
+    display: grid;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    width: 90%;
+    margin-left: 6%;
+    grid-column: 1/4;
+}
+
+body{
+    width: 100%;
+    height:600px;
+    grid-column: 1/4;
+    background-image: url("../imagen/suicide.jpg");  
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    margin-left: 0%;
+    
+}
+
+.seccion1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(174, 0, 255);
+}
